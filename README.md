@@ -10,8 +10,8 @@
 
 ### 1. Purple Rain 
 
-Inspired was this Challenge by a Video of the Coding Train (https://www.youtube.com/watch?v=KkyIDI6rQJI):
-Code: https://github.com/BY571/Coding-Challenges/blob/master/Purple%20Rain/purple_rain.py
+Inspired was this Challenge by a Video of [The Coding Train](https://www.youtube.com/watch?v=KkyIDI6rQJI):
+Code: [Purple Rain](https://github.com/BY571/Coding-Challenges/blob/master/Purple%20Rain/purple_rain.py)
 Video: 
 
 ![alt text][image1]
@@ -20,8 +20,8 @@ Video:
 
 ### 2. Random Walk
 
-Inspired was this Challenge by a Video of the Coding Train (https://www.youtube.com/watch?v=l__fEY1xanY):
-Code: [Random Walk] (# https://github.com/BY571/Coding-Challenges/blob/master/Random%20Walker/Random_Walker.py)
+Inspired was this Challenge by a Video of [The Coding Train](https://www.youtube.com/watch?v=l__fEY1xanY):
+Code: [Random Walk](https://github.com/BY571/Coding-Challenges/blob/master/Random%20Walker/Random_Walker.py)
 Video: 
 
 ![alt text][image2]
