@@ -21,7 +21,7 @@ Video:
 ### 2. Random Walk
 
 Inspired was this Challenge by a Video of the Coding Train (https://www.youtube.com/watch?v=l__fEY1xanY):
-Code: [https://github.com/BY571/Coding-Challenges/blob/master/Random%20Walker/Random_Walker.py] (# Random Walk)
+Code: [Random Walk] (# https://github.com/BY571/Coding-Challenges/blob/master/Random%20Walker/Random_Walker.py)
 Video: 
 
 ![alt text][image2]
